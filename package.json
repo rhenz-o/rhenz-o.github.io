@@ -28,6 +28,7 @@
   },
   "homepage": "http://matterwiki.com",
   "dependencies": {
+    "3": "^2.1.0",
     "bcryptjs": "2.4.0",
     "body-parser": "1.15.2",
     "bookshelf": "0.10.0",
@@ -39,6 +40,7 @@
     "react-dom": "15.3.0",
     "react-router": "2.8.1",
     "react-s-alert": "1.2.2",
+    "sqlite": "^3.0.3",
     "sqlite3": "3.1.4",
     "whatwg-fetch": "2.0.1"
   },
